@@ -1,0 +1,12 @@
+# Core app
+# gradio>=4.43
+# pypdf>=5.0.0
+# reportlab>=4.2
+# numpy>=1.26
+# faiss-cpu>=1.8.0
+# sentence-transformers>=3.0.0
+# transformers>=4.44
+# accelerate>=0.34
+# huggingface_hub>=0.24
+# Optional: OpenAI for better generation quality
+# openai>=1.45
